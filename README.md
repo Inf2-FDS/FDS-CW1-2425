@@ -2,9 +2,9 @@
 
 # Foundations of Data Science CW1, 2024-25
 
-## Important: how to run Jupyter so you can submit the exercise
+## Important: how to run Jupyter so you can submit the coursework
 
-This exercise (and Coursework 1) require you to submit a PDF generated in a particular way, which uses LaTeX behind the scenes.
+Coursework 1 requires you to submit a PDF generated in a particular way, which uses LaTeX behind the scenes.
 
 The recommended way of generating this format is to use Notable with
 the **Jupyter Classic (Legacy)** notebook server. 
